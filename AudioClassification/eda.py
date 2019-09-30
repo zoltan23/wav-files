@@ -62,3 +62,4 @@ def plot_mfccs(mfccs):
             axes[x,y].get_yaxis().set_visible(False)
             i += 1
 
+print("eda")
